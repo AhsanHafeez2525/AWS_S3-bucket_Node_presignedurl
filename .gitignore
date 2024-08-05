@@ -1,0 +1,70 @@
+# Node modules directory
+node_modules/
+
+# Log files
+*.log
+logs/
+
+# Dependency directories
+jspm_packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+dist/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# macOS specific files
+*.DS_Store
+
+# Windows specific files
+*.cab
+*.msi
+*.lnk
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Typescript cache
+*.tsbuildinfo
+
+# Build output
+build/
+dist/
+
+# Serverless deployment artifacts
+.serverless/
+
+# Docker files
+docker-compose.override.yml
+Dockerfile
+docker-comp
